@@ -1,0 +1,145 @@
+.header-bg{
+	background-image:url("images/pexels-bich-tran-669996.jpg");
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	width:100%;
+	height:500px;
+	
+}
+.header{
+	background:#333333;
+	text-align:center;
+}
+.head {
+    color: white;
+    margin: 10px 0px;
+}
+.head h1{}
+.head h1 a{
+	text-decoration:none;
+	color:white;
+}
+
+.menu-ber{}
+.menu-ber ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+.menu-ber ul li {
+    float: left;
+    width: 100px;
+    background: #333333;
+    height: 59px;
+    line-height: 35px;
+    text-align: center;
+    margin: 0px 0px;
+    padding: 17px 0px;
+}
+.menu-ber ul li a {
+    text-decoration: none;
+    color: white;
+	display:block;
+}
+.menu-ber ul li a:hover{
+	background:#909EA7;
+	border-radius:5px;
+	color:blue;
+}
+.sign-up {
+    text-align: center;
+    margin: 19px 0px;
+	
+}
+.sign-up button{
+	color:#42B7DC;
+	border:1px solid #42B7DC;
+	background:#333333
+}
+.video-section {
+    color: white;
+    text-align: justify;
+    margin: 158px 270px;
+}
+.video-section a{
+	text-decoration:none;
+	color:white;}
+.video-left{
+	float:left;
+}
+.video-right {
+    float: right;
+    margin: 10px -21px;
+}
+i.fa.fa-play-circle-o {
+    font-size: 58px;
+    margin: 7px -62px;
+}
+
+.service-section{
+	text-align:center;
+}
+.services-bg{
+	background:#42B8DD;
+	color:white;
+}
+.service{
+	display:inline-flex;
+}
+.service a{
+	color:white;
+}
+.future {
+    margin: 32px 2px;
+    text-align: justify;
+	color:white;
+}
+.future h1 {
+    margin: 4px -29px;
+}
+.future-left{
+	float:left;
+	color:white;
+}
+.future-right {
+    float: right;
+    margin: 10px 0px;
+}
+
+i.fa.fa-arrow-circle-o-right {
+    font-size: 70px;
+    margin: 14px 25px;
+}
+.icon-section{}
+.icon-section-bg{
+	background:white;
+}
+.icon {
+    margin: 20px 0px;
+    text-align: center;
+}
+.icon a {
+    margin: 0px 30px;
+}
+i.icon-fa {
+    padding: 15px 15px;
+    color: #42B8DD;
+}
+.icon-fa:hover{
+	color:#0056B3;
+}
+.con {
+    position: relative;
+    text-align: center;
+    color: red;
+}
+.bottom-left {
+    position: absolute;
+    top: 188px;
+    left: 389px;
+    background: #0ee2ec;
+    color: white;
+}
+
+
